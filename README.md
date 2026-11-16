@@ -1,2 +1,3 @@
-# codeforces-solutions-Folder-Backup
-Sync code solutions from LeetCode, Codeforces, GeeksforGeeks manually and automatically. Created by Syncode.
+| # | Problem | Platform | Difficulty | Date Solved | Time |
+|---|---------|----------|------------|-------------|------|
+| 1 | [Chips](./Codeforces/Easy/Chips) | [Codeforces](https://codeforces.com/contest/92/problem/A) | Easy | 16 Nov 2026 | 10:00 pm |
