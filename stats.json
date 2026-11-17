@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-11-16",
+  "totalSolved": 2,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-11-17",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 0,
+    "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "Codeforces_Chips": true
+    "Codeforces_Chips": true,
+    "Codeforces_A._K_Is_Important": true
   },
   "activityHistory": {
-    "2026-11-16": 1
+    "2026-11-16": 1,
+    "2026-11-17": 1
   },
   "todayProblems": [
-    "Chips"
+    "A. K Is Important"
   ]
 }
