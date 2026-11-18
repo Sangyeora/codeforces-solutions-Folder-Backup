@@ -1,11 +1,11 @@
 {
-  "totalSolved": 3,
+  "totalSolved": 4,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 0
@@ -13,12 +13,13 @@
   "syncedProblems": {
     "Codeforces_Chips": true,
     "Codeforces_A._K_Is_Important": true,
-    "Manual_11A._Increasing_Sequence": true
+    "Manual_11A._Increasing_Sequence": true,
+    "Codeforces_11A._Increasing_Sequence": true
   },
   "activityHistory": {
     "2026-11-16": 1,
     "2026-11-17": 1,
-    "2026-11-18": 1
+    "2026-11-18": 2
   },
   "todayProblems": [
     "11A. Increasing Sequence"
