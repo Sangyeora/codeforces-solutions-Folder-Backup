@@ -4,3 +4,4 @@
 | 2 | [A. K Is Important](./Codeforces/Medium/A.%20K%20Is%20Important) | [Codeforces](https://codeforces.com/problemset/problem/2268/A) | Medium | 17 Nov 2026 | 10:30 am |
 | 3 | [11A. Increasing Sequence](./Manual/Easy/11A.%20Increasing%20Sequence) | [Manual](https://codeforces.com/problemset/problem/11/A) | Easy | 18 Nov 2026 | 09:13 pm |
 | 4 | [A. Super Agent](./Codeforces/Basic/A.%20Super%20Agent) | [Codeforces](https://codeforces.com/contest/12/problem/A) | Basic | 19 Nov 2026 | 05:02 pm |
+| 5 | [A. Die Roll](./Codeforces/Basic/A.%20Die%20Roll) | [Codeforces](https://codeforces.com/problemset/problem/9/A) | Basic | 19 Nov 2026 | 05:10 pm |
