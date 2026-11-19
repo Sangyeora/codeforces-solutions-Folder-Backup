@@ -1,14 +1,14 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-11-19",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
     "medium": 1,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "syncedProblems": {
     "Codeforces_Chips": true,
@@ -16,16 +16,18 @@
     "Manual_11A._Increasing_Sequence": true,
     "Codeforces_11A._Increasing_Sequence": true,
     "Codeforces_A._Super_Agent": true,
-    "Codeforces_A._Die_Roll": true
+    "Codeforces_A._Die_Roll": true,
+    "Codeforces_6A._Triangle": true
   },
   "activityHistory": {
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-18": 2,
-    "2026-11-19": 2
+    "2026-11-19": 3
   },
   "todayProblems": [
     "A. Super Agent",
-    "A. Die Roll"
+    "A. Die Roll",
+    "6A. Triangle"
   ]
 }
