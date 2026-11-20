@@ -7,3 +7,4 @@
 | 5 | [A. Die Roll](./Codeforces/Basic/A.%20Die%20Roll) | [Codeforces](https://codeforces.com/problemset/problem/9/A) | Basic | 19 Nov 2026 | 05:10 pm |
 | 6 | [6A. Triangle](./Codeforces/Basic/6A.%20Triangle) | [Codeforces](https://codeforces.com/problemset/problem/6/A) | Basic | 19 Nov 2026 | 05:18 pm |
 | 7 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 20 Nov 2026 | 02:44 pm |
+| 8 | [1.Two Sum](./LeetCode/Easy/1.Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/solutions/) | Easy | 20 Nov 2026 | 02:45 pm |
