@@ -8,3 +8,4 @@
 | 6 | [6A. Triangle](./Codeforces/Basic/6A.%20Triangle) | [Codeforces](https://codeforces.com/problemset/problem/6/A) | Basic | 19 Nov 2026 | 05:18 pm |
 | 7 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 20 Nov 2026 | 02:44 pm |
 | 8 | [1.Two Sum](./LeetCode/Easy/1.Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/solutions/) | Easy | 20 Nov 2026 | 02:45 pm |
+| 9 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 20 Nov 2026 | 02:51 pm |
