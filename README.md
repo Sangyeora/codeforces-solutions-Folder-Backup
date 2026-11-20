@@ -10,3 +10,4 @@
 | 8 | [1.Two Sum](./LeetCode/Easy/1.Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/solutions/) | Easy | 20 Nov 2026 | 02:45 pm |
 | 9 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 20 Nov 2026 | 02:51 pm |
 | 10 | [2. Add Two Numbers](./LeetCode/Medium/2.%20Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/description/) | Medium | 20 Nov 2026 | 02:52 pm |
+| 11 | [1787A-A. Exponential Equation](./Codeforces/Easy/1787A-A.%20Exponential%20Equation) | [Codeforces](https://codeforces.com/problemset/problem/1787/A) | Easy | 20 Nov 2026 | 05:09 pm |

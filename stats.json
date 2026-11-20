@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-11-20",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 3,
     "hard": 0,
     "basic": 3
@@ -21,19 +21,21 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_1.Two_Sum": true,
     "LeetCode_Add_Two_Numbers": true,
-    "LeetCode_2._Add_Two_Numbers": true
+    "LeetCode_2._Add_Two_Numbers": true,
+    "Codeforces_1787A-A._Exponential_Equation": true
   },
   "activityHistory": {
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-18": 2,
     "2026-11-19": 3,
-    "2026-11-20": 4
+    "2026-11-20": 5
   },
   "todayProblems": [
     "Two Sum",
     "1.Two Sum",
     "Add Two Numbers",
-    "2. Add Two Numbers"
+    "2. Add Two Numbers",
+    "1787A-A. Exponential Equation"
   ]
 }
