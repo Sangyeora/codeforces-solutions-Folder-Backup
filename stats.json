@@ -1,11 +1,11 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-11-19",
-  "todayCount": 3,
+  "totalSolved": 8,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-11-20",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 1,
     "hard": 0,
     "basic": 3
@@ -17,17 +17,17 @@
     "Codeforces_11A._Increasing_Sequence": true,
     "Codeforces_A._Super_Agent": true,
     "Codeforces_A._Die_Roll": true,
-    "Codeforces_6A._Triangle": true
+    "Codeforces_6A._Triangle": true,
+    "LeetCode_Two_Sum": true
   },
   "activityHistory": {
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-18": 2,
-    "2026-11-19": 3
+    "2026-11-19": 3,
+    "2026-11-20": 1
   },
   "todayProblems": [
-    "A. Super Agent",
-    "A. Die Roll",
-    "6A. Triangle"
+    "Two Sum"
   ]
 }
