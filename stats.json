@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-11-20",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 3
   },
@@ -20,18 +20,20 @@
     "Codeforces_6A._Triangle": true,
     "LeetCode_Two_Sum": true,
     "LeetCode_1.Two_Sum": true,
-    "LeetCode_Add_Two_Numbers": true
+    "LeetCode_Add_Two_Numbers": true,
+    "LeetCode_2._Add_Two_Numbers": true
   },
   "activityHistory": {
     "2026-11-16": 1,
     "2026-11-17": 1,
     "2026-11-18": 2,
     "2026-11-19": 3,
-    "2026-11-20": 3
+    "2026-11-20": 4
   },
   "todayProblems": [
     "Two Sum",
     "1.Two Sum",
-    "Add Two Numbers"
+    "Add Two Numbers",
+    "2. Add Two Numbers"
   ]
 }

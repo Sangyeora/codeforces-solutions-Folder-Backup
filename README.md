@@ -9,3 +9,4 @@
 | 7 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 20 Nov 2026 | 02:44 pm |
 | 8 | [1.Two Sum](./LeetCode/Easy/1.Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/solutions/) | Easy | 20 Nov 2026 | 02:45 pm |
 | 9 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 20 Nov 2026 | 02:51 pm |
+| 10 | [2. Add Two Numbers](./LeetCode/Medium/2.%20Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/description/) | Medium | 20 Nov 2026 | 02:52 pm |
