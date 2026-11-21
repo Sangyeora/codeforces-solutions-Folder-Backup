@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 3
   },
@@ -24,7 +24,8 @@
     "LeetCode_2._Add_Two_Numbers": true,
     "Codeforces_1787A-A._Exponential_Equation": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_3._Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_3._Longest_Substring_Without_Repeating_Characters": true,
+    "Codeforces_A._Power_Consumption_Calculation": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -32,10 +33,11 @@
     "2026-11-18": 2,
     "2026-11-19": 3,
     "2026-11-20": 5,
-    "2026-11-21": 2
+    "2026-11-21": 3
   },
   "todayProblems": [
     "Longest Substring Without Repeating Characters",
-    "3. Longest Substring Without Repeating Characters"
+    "3. Longest Substring Without Repeating Characters",
+    "A. Power Consumption Calculation"
   ]
 }
