@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 4,
+    "medium": 5,
     "hard": 0,
     "basic": 3
   },
@@ -23,7 +23,8 @@
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_2._Add_Two_Numbers": true,
     "Codeforces_1787A-A._Exponential_Equation": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_3._Longest_Substring_Without_Repeating_Characters": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -31,9 +32,10 @@
     "2026-11-18": 2,
     "2026-11-19": 3,
     "2026-11-20": 5,
-    "2026-11-21": 1
+    "2026-11-21": 2
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters"
+    "Longest Substring Without Repeating Characters",
+    "3. Longest Substring Without Repeating Characters"
   ]
 }
