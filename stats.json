@@ -1,12 +1,12 @@
 {
-  "totalSolved": 17,
+  "totalSolved": 18,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-23",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 3
   },
@@ -27,7 +27,8 @@
     "LeetCode_3._Longest_Substring_Without_Repeating_Characters": true,
     "Codeforces_A._Power_Consumption_Calculation": true,
     "LeetCode_6._Zigzag_Conversion": true,
-    "LeetCode_Zigzag_Conversion": true
+    "LeetCode_Zigzag_Conversion": true,
+    "LeetCode_7._Reverse_Integer": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -36,10 +37,11 @@
     "2026-11-19": 3,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-23": 2
+    "2026-11-23": 3
   },
   "todayProblems": [
     "6. Zigzag Conversion",
-    "Zigzag Conversion"
+    "Zigzag Conversion",
+    "7. Reverse Integer"
   ]
 }
