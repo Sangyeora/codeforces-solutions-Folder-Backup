@@ -17,3 +17,4 @@
 | 15 | [6. Zigzag Conversion](./LeetCode/Easy/6.%20Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/description/) | Easy | 23 Nov 2026 | 07:09 pm |
 | 16 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 23 Nov 2026 | 07:09 pm |
 | 17 | [7. Reverse Integer](./LeetCode/Medium/7.%20Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 23 Nov 2026 | 07:32 pm |
+| 18 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 23 Nov 2026 | 07:58 pm |
