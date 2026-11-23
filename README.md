@@ -15,3 +15,4 @@
 | 13 | [3. Longest Substring Without Repeating Characters](./LeetCode/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | Medium | 21 Nov 2026 | 06:21 pm |
 | 14 | [A. Power Consumption Calculation](./Codeforces/Medium/A.%20Power%20Consumption%20Calculation) | [Codeforces](https://codeforces.com/problemset/problem/10/A) | Medium | 21 Nov 2026 | 06:40 pm |
 | 15 | [6. Zigzag Conversion](./LeetCode/Easy/6.%20Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/description/) | Easy | 23 Nov 2026 | 07:09 pm |
+| 16 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 23 Nov 2026 | 07:09 pm |
