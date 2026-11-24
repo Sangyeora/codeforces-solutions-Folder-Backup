@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 1,
+  "totalSolved": 20,
+  "currentStreak": 2,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-23",
-  "todayCount": 4,
+  "lastSyncDate": "2026-11-24",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 9,
+    "medium": 10,
     "hard": 0,
     "basic": 3
   },
@@ -29,7 +29,8 @@
     "LeetCode_6._Zigzag_Conversion": true,
     "LeetCode_Zigzag_Conversion": true,
     "LeetCode_7._Reverse_Integer": true,
-    "LeetCode_Reverse_Integer": true
+    "LeetCode_Reverse_Integer": true,
+    "LeetCode_String_to_Integer_(atoi)": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -38,12 +39,10 @@
     "2026-11-19": 3,
     "2026-11-20": 5,
     "2026-11-21": 3,
-    "2026-11-23": 4
+    "2026-11-23": 4,
+    "2026-11-24": 1
   },
   "todayProblems": [
-    "6. Zigzag Conversion",
-    "Zigzag Conversion",
-    "7. Reverse Integer",
-    "Reverse Integer"
+    "String to Integer (atoi)"
   ]
 }
