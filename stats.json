@@ -1,11 +1,11 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 2,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-24",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 11,
     "hard": 0,
     "basic": 3
@@ -31,7 +31,8 @@
     "LeetCode_7._Reverse_Integer": true,
     "LeetCode_Reverse_Integer": true,
     "LeetCode_String_to_Integer_(atoi)": true,
-    "LeetCode_8._String_to_Integer_(atoi)": true
+    "LeetCode_8._String_to_Integer_(atoi)": true,
+    "Codeforces_46A.Ball_Game": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -41,10 +42,11 @@
     "2026-11-20": 5,
     "2026-11-21": 3,
     "2026-11-23": 4,
-    "2026-11-24": 2
+    "2026-11-24": 3
   },
   "todayProblems": [
     "String to Integer (atoi)",
-    "8. String to Integer (atoi)"
+    "8. String to Integer (atoi)",
+    "46A.Ball Game"
   ]
 }

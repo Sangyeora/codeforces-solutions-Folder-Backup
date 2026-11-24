@@ -20,3 +20,4 @@
 | 18 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 23 Nov 2026 | 07:58 pm |
 | 19 | [String to Integer (atoi)](./LeetCode/Medium/String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 24 Nov 2026 | 01:13 pm |
 | 20 | [8. String to Integer (atoi)](./LeetCode/Medium/8.%20String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/description/) | Medium | 24 Nov 2026 | 01:14 pm |
+| 21 | [46A.Ball Game](./Codeforces/Easy/46A.Ball%20Game) | [Codeforces](https://codeforces.com/problemset/problem/46/A) | Easy | 24 Nov 2026 | 01:23 pm |
