@@ -1,13 +1,13 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "currentStreak": 3,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-25",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 9,
     "medium": 11,
-    "hard": 1,
+    "hard": 2,
     "basic": 3
   },
   "syncedProblems": {
@@ -34,7 +34,8 @@
     "LeetCode_8._String_to_Integer_(atoi)": true,
     "Codeforces_46A.Ball_Game": true,
     "LeetCode_N-Queens": true,
-    "Codeforces_2253A._The_Best_Card": true
+    "Codeforces_2253A._The_Best_Card": true,
+    "LeetCode_51._N-Queens": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -45,10 +46,11 @@
     "2026-11-21": 3,
     "2026-11-23": 4,
     "2026-11-24": 3,
-    "2026-11-25": 2
+    "2026-11-25": 3
   },
   "todayProblems": [
     "N-Queens",
-    "2253A. The Best Card"
+    "2253A. The Best Card",
+    "51. N-Queens"
   ]
 }
