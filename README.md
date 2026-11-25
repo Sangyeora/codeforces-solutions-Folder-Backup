@@ -22,3 +22,4 @@
 | 20 | [8. String to Integer (atoi)](./LeetCode/Medium/8.%20String%20to%20Integer%20(atoi)) | [LeetCode](https://leetcode.com/problems/string-to-integer-atoi/description/) | Medium | 24 Nov 2026 | 01:14 pm |
 | 21 | [46A.Ball Game](./Codeforces/Easy/46A.Ball%20Game) | [Codeforces](https://codeforces.com/problemset/problem/46/A) | Easy | 24 Nov 2026 | 01:23 pm |
 | 22 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 25 Nov 2026 | 11:57 am |
+| 23 | [2253A. The Best Card](./Codeforces/Easy/2253A.%20The%20Best%20Card) | [Codeforces](https://codeforces.com/problemset/problem/2253/A) | Easy | 25 Nov 2026 | 11:35 pm |
