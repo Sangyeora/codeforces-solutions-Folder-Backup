@@ -24,3 +24,4 @@
 | 22 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 25 Nov 2026 | 11:57 am |
 | 23 | [2253A. The Best Card](./Codeforces/Easy/2253A.%20The%20Best%20Card) | [Codeforces](https://codeforces.com/problemset/problem/2253/A) | Easy | 25 Nov 2026 | 11:35 pm |
 | 24 | [51. N-Queens](./LeetCode/Hard/51.%20N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 25 Nov 2026 | 11:37 pm |
+| 25 | [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-09-23) | Easy | 27 Nov 2026 | 10:43 am |

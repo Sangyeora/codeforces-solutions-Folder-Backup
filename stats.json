@@ -1,11 +1,11 @@
 {
-  "totalSolved": 25,
-  "currentStreak": 3,
+  "totalSolved": 26,
+  "currentStreak": 1,
   "maxStreak": 6,
-  "lastSyncDate": "2026-11-25",
-  "todayCount": 3,
+  "lastSyncDate": "2026-11-27",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 9,
+    "easy": 10,
     "medium": 11,
     "hard": 2,
     "basic": 3
@@ -35,7 +35,8 @@
     "Codeforces_46A.Ball_Game": true,
     "LeetCode_N-Queens": true,
     "Codeforces_2253A._The_Best_Card": true,
-    "LeetCode_51._N-Queens": true
+    "LeetCode_51._N-Queens": true,
+    "LeetCode_3754._Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -46,11 +47,10 @@
     "2026-11-21": 3,
     "2026-11-23": 4,
     "2026-11-24": 3,
-    "2026-11-25": 3
+    "2026-11-25": 3,
+    "2026-11-27": 1
   },
   "todayProblems": [
-    "N-Queens",
-    "2253A. The Best Card",
-    "51. N-Queens"
+    "3754. Concatenate Non-Zero Digits and Multiply by Sum I"
   ]
 }
