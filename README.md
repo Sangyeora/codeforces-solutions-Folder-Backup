@@ -26,3 +26,4 @@
 | 24 | [51. N-Queens](./LeetCode/Hard/51.%20N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 25 Nov 2026 | 11:37 pm |
 | 25 | [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/3754.%20Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-09-23) | Easy | 27 Nov 2026 | 10:43 am |
 | 26 | [Concatenate Non-Zero Digits and Multiply by Sum I](./LeetCode/Easy/Concatenate%20Non-Zero%20Digits%20and%20Multiply%20by%20Sum%20I) | [LeetCode](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy | 27 Nov 2026 | 10:43 am |
+| 27 | [A. Noldbach problem](./Codeforces/Medium/A.%20Noldbach%20problem) | [Codeforces](https://codeforces.com/problemset/problem/17/A) | Medium | 27 Nov 2026 | 10:55 am |

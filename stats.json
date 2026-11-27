@@ -1,12 +1,12 @@
 {
-  "totalSolved": 27,
+  "totalSolved": 28,
   "currentStreak": 1,
   "maxStreak": 6,
   "lastSyncDate": "2026-11-27",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 11,
-    "medium": 11,
+    "medium": 12,
     "hard": 2,
     "basic": 3
   },
@@ -37,7 +37,8 @@
     "Codeforces_2253A._The_Best_Card": true,
     "LeetCode_51._N-Queens": true,
     "LeetCode_3754._Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true,
-    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true
+    "LeetCode_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I": true,
+    "Codeforces_A._Noldbach_problem": true
   },
   "activityHistory": {
     "2026-11-16": 1,
@@ -49,10 +50,11 @@
     "2026-11-23": 4,
     "2026-11-24": 3,
     "2026-11-25": 3,
-    "2026-11-27": 2
+    "2026-11-27": 3
   },
   "todayProblems": [
     "3754. Concatenate Non-Zero Digits and Multiply by Sum I",
-    "Concatenate Non-Zero Digits and Multiply by Sum I"
+    "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "A. Noldbach problem"
   ]
 }
